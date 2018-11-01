@@ -2,6 +2,7 @@ Natours
 Natours is a fluid layout website made using HTML5, CSS3, and Sass.
 
 Live Demo:
+https://bogdanmaximovic.github.io/Natours/
 
 
 Built With
